@@ -1,12 +1,4 @@
-![seta](https://user-images.githubusercontent.com/46195831/205517122-032c2b32-ce21-477f-9b9e-28a703913c87.png)
---
-## Hey There 👋🏼
-
-Welcome to my Github portfolio! 
-<br>
-If you're here I am guessing you want to learn more about me or some work I have done — I've gathered below a couple of links to some of my work.
-
-## Links 🔗
+## Links
 * [Raft Consensus Protocol Implementation In Go](https://github.com/Ghvstcode/Raft)
 * [Exploring MMAP in Go](https://ghvsted.com/blog/exploring-mmap-in-go/)
 * [Configurable Multi-port TCP Proxy](https://github.com/Ghvstcode/TCP-Proxy)
